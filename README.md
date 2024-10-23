@@ -1,1 +1,1 @@
-"# polar_hrm_test" 
+polar_hrm_test
